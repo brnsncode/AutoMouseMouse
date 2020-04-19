@@ -1,3 +1,4 @@
+#finalized
 import pyautogui
 import random
 import time
